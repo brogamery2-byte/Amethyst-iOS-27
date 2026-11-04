@@ -49,7 +49,7 @@ If you cannot, [AltStore](https://altstore.io) and [SideStore](https://sidestore
 
 ### Installing Amethyst
 #### Release build (TrollStore)
-1. Download an IPA of Amethyst in [Releases](https://github.com/AngelAuraMC/Amethyst-iOS/releases).
+1. Download an IPA of Amethyst in [Releases](https://github.com/brogamery2-byte/Amethyst-iOS-27/releases).
 2. Open the package in TrollStore using the share menu.
 
 #### Release build (AltStore/SideStore trusted source)
@@ -57,7 +57,7 @@ These builds will be available soon, stay tuned.
 
 #### Nightly builds
 *These builds can contain game-breaking bugs. Use with caution.*
-1. Download an IPA build of Amethyst in the [Actions tab](https://github.com/AngelAuraMC/Amethyst-iOS/actions).
+1. Download an IPA build of Amethyst in the [Actions tab](https://github.com/brogamery2-byte/Amethyst-iOS-27/actions).
 2. Open the downloaded IPA in your sideloading app to install.
 
 #### Nightly builds (AltStore/SideStore trusted sources)
